@@ -1,0 +1,18 @@
+{
+    "packageId": "com.tvdisplay.app",
+    "name": "TV Display System",
+    "launcherName": "TV Display",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "themeColor": "#000000",
+    "navigationColor": "#000000",
+    "navigationColorDark": "#000000",
+    "backgroundColor": "#000000",
+    "enableNotifications": false,
+    "shortcuts": [],
+    "webManifestUrl": "http://localhost:5000/manifest.json",
+    "signingKey": {
+        "path": "./android.keystore",
+        "alias": "android"
+    }
+} 

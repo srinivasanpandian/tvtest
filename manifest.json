@@ -1,0 +1,39 @@
+{
+    "name": "TV Display System",
+    "short_name": "TV Display",
+    "description": "A system for displaying images and videos in loop on TV",
+    "start_url": "/",
+    "scope": "/",
+    "display": "fullscreen",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "orientation": "landscape",
+    "categories": ["entertainment", "utilities"],
+    "screenshots": [],
+    "icons": [
+        {
+            "src": "icons/manifest-icon-192.maskable.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/manifest-icon-192.maskable.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/manifest-icon-512.maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/manifest-icon-512.maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+} 

@@ -1,0 +1,16 @@
+{
+    "name": "tv-display-system",
+    "version": "1.0.0",
+    "description": "A TV display system for images and videos",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve .",
+        "build-pwa": "workbox generateSW workbox-config.js"
+    },
+    "dependencies": {
+        "serve": "^14.2.1"
+    },
+    "devDependencies": {
+        "workbox-cli": "^7.0.0"
+    }
+} 
